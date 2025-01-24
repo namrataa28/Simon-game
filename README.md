@@ -1,6 +1,6 @@
 # Simon-game
 
-Project Name: Simon Game (Color Sequence Memory Game)<br> Description: Developed an interactive memory-based Simon Game using HTML, CSS, and JavaScript. The game generates a sequence of colors that the player must replicate in order. Features include:
+Project Name: Simon Game (Color Sequence Memory Game)<br> Description: Developed an interactive memory-based Simon Game using HTML, CSS, and JavaScript. The game generates a sequence of colors that the player must replicate in order. Features include:<br>
 1.Dynamic level progression as the player's memory sequence matches the game's.<br>
 2.High score tracking to encourage user engagement.<br>
 3.Smooth visual effects, including flashing color buttons for both system-generated and user-input sequences.<br>
